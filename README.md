@@ -93,13 +93,15 @@
 ## Technologies Used
 * Python3
 
+
 ## Libraries Used
--     Package                           Version
---------------------------------- ------------
-*	pandas                            2.1.4
-*	matplotlib                        3.8.0
-*	seaborn                           0.12.2
-*	scipy                             1.11.4
+| Package       | Version       |
+| ------------- |:-------------:|
+| pandas        | 2.1.4         |
+| cmatplotlib   | 3.8.0         |
+| seaborn       | 0.12.2        |
+| scipy         | 1.11.4        |
+
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
