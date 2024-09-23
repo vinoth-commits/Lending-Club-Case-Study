@@ -100,12 +100,15 @@
 
 ## Acknowledgements
 Credit:
-      - Vishal Sinha
-      - Vinoth Kumar
+      * Vishal Sinha
+      * Vinoth Kumar
+
+```
 References:
 - https://pandas.pydata.org/
 - https://matplotlib.org/
 - https://seaborn.pydata.org/
+```
 
 
 ## Contact
