@@ -9,32 +9,26 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 
       As the largest online loan marketplace, the company specializes in facilitating personal, business, and medical loans.
       Borrowers can conveniently obtain lower interest loans through a streamlined online interface.
 
-- What is the background of your project?
 
       Lending loans to risky applicants is the largest source of financial loss.
       Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
       Identification of such applicants using exploratory data analysis (EDA) is the aim of this case study.
 
 
-- What is the business probem that your project is trying to solve?
+      Aim of the project:
+            The study focuses on identifying factors that may contribute to loan applicants defaulting on their payments. 
+            The company wants to understand the driving factors behind loan default.  i.e. the variables which are strong indicators of default.  
+            The company can utilise this knowledge for its portfolio and risk assessment. 
 
-      The study focuses on identifying factors that may contribute to loan applicants defaulting on their payments. 
-      The company wants to understand the driving factors behind loan default.  i.e. the variables which are strong indicators of default.  
-      The company can utilise this knowledge for its portfolio and risk assessment. 
+      Dataset used:
+            loan.csv - the dataset contains all the details of loans applied from 2007 through 2011.
 
-- What is the dataset that is being used?
-
-      loan.csv
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 
@@ -87,7 +81,6 @@
       2. Credit card and debt consolidation loans are at a significant risk of default, with many borrowers on the verge of defaulting.
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -104,11 +97,11 @@
 
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Credit:
-Since this is a group project, special thanks go to Vishal for his dedicated contribution and effort.
+      - Vishal Sinha
+      - Vinoth Kumar
 References:
 - https://pandas.pydata.org/
 - https://matplotlib.org/
@@ -117,10 +110,3 @@ References:
 
 ## Contact
 Created by [https://github.com/vinoth-commits] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
