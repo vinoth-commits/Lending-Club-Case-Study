@@ -99,9 +99,11 @@
 
 
 ## Acknowledgements
+```
 Credit:
       * Vishal Sinha
       * Vinoth Kumar
+```
 
 ```
 References:
