@@ -13,27 +13,29 @@
 ## General Information
 - Provide general information about your project here.
 
-As the largest online loan marketplace, the company specializes in facilitating personal, business, and medical loans.
-Borrowers can conveniently obtain lower interest loans through a streamlined online interface.
+      As the largest online loan marketplace, the company specializes in facilitating personal, business, and medical loans.
+      Borrowers can conveniently obtain lower interest loans through a streamlined online interface.
 
 - What is the background of your project?
 
-Lending loans to risky applicants is the largest source of financial loss.
-Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+      Lending loans to risky applicants is the largest source of financial loss.
+      Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+      Identification of such applicants using exploratory data analysis (EDA) is the aim of this case study.
+
 
 - What is the business probem that your project is trying to solve?
 
-The study focuses on identifying factors that may contribute to loan applicants defaulting on their payments.
+      The study focuses on identifying factors that may contribute to loan applicants defaulting on their payments. 
+      The company wants to understand the driving factors behind loan default.  i.e. the variables which are strong indicators of default.  
+      The company can utilise this knowledge for its portfolio and risk assessment. 
 
 - What is the dataset that is being used?
 
-  loan.csv
+      loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-
-Explain the results of univariate, bivariate analysis etc. in business terms
 
 - Conclusion 1: 
 
