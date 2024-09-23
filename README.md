@@ -91,7 +91,7 @@
 | Package       | Version       |
 | ------------- |:-------------:|
 | pandas        | 2.1.4         |
-| cmatplotlib   | 3.8.0         |
+| matplotlib   | 3.8.0         |
 | seaborn       | 0.12.2        |
 | scipy         | 1.11.4        |
 
